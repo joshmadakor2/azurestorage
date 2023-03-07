@@ -9,43 +9,37 @@ In this project, we will show you the exact steps to take to setup an Azure Stor
 * [Microsoft Azure](https://portal.azure.com)
 * [Azure Blob Storage](https://azure.microsoft.com/en-us/products/storage/blobs)
 
+## Video Demo
+[HOW-TO: Using an Azure Storage Account to Host a Web Page](https://youtu.be/qz_E3uidr_w?list=RDqz_E3uidr_w)
+
 ## Demo
 
 ### Step 1: Create a free Azure Account
 
-![Step 1](https://i.imgur.com/GQhHqBe.png)
+![Step 1](https://i.imgur.com/0uFLyCm.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis justo a porta sodales. Sed et massa a ipsum tempus consectetur. Donec fringilla purus vel mauris efficitur, id sagittis velit interdum. 
 
 ### Step 2: Create an Azure Storage Account
 
-![Step 2](https://via.placeholder.com/500x250.png?text=Step+2)
+![Step 2](https://i.imgur.com/k9jOQpW.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis justo a porta sodales. Sed et massa a ipsum tempus consectetur. Donec fringilla purus vel mauris efficitur, id sagittis velit interdum. 
 
 ### Step 3: Configure the storage account to work as a static Web Page
 
-![Step 2](https://via.placeholder.com/500x250.png?text=Step+2)
+![Step 3](https://i.imgur.com/5SQgV5s.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis justo a porta sodales. Sed et massa a ipsum tempus consectetur. Donec fringilla purus vel mauris efficitur, id sagittis velit interdum. 
 
 ### Step 4: Have ChatGPT generate you a sample website and save it to an index.html file
 
-![Step 2](https://via.placeholder.com/500x250.png?text=Step+2)
+![Step 4](https://i.imgur.com/0SxsnN1.png)
+![Step 4](https://i.imgur.com/8FiaStw.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis justo a porta sodales. Sed et massa a ipsum tempus consectetur. Donec fringilla purus vel mauris efficitur, id sagittis velit interdum. 
 
 ### Step 5: Upload that website to your Storage Account
 
-![Step 2](https://via.placeholder.com/500x250.png?text=Step+2)
+![Step 5](https://via.placeholder.com/500x250.png?text=Step+2)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis justo a porta sodales. Sed et massa a ipsum tempus consectetur. Donec fringilla purus vel mauris efficitur, id sagittis velit interdum. 
 
 ### Step 6: View your site!
 
-![Step 2](https://via.placeholder.com/500x250.png?text=Step+2)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis justo a porta sodales. Sed et massa a ipsum tempus consectetur. Donec fringilla purus vel mauris efficitur, id sagittis velit interdum. 
-
-
-
+![Step 6](https://i.imgur.com/U8LnrWt.png)
