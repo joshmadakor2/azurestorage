@@ -16,30 +16,30 @@ In this project, we will show you the exact steps to take to setup an Azure Stor
 
 ### Step 1: Create a free Azure Account
 
-![Step 1](https://i.imgur.com/0uFLyCm.png)
+<img src="https://i.imgur.com/0uFLyCm.png" style="width: 50%;"/>
 
 
 ### Step 2: Create an Azure Storage Account
 
-![Step 2](https://i.imgur.com/k9jOQpW.png)
+<img src="https://i.imgur.com/k9jOQpW.png" style="width: 50%;"/>
 
 
 ### Step 3: Configure the storage account to work as a static Web Page
 
-![Step 3](https://i.imgur.com/5SQgV5s.png)
+<img src="https://i.imgur.com/5SQgV5s.png" style="width: 50%;"/>
 
 
 ### Step 4: Have ChatGPT generate you a sample website and save it to an index.html file
 
-![Step 4](https://i.imgur.com/0SxsnN1.png)
-![Step 4](https://i.imgur.com/8FiaStw.png)
+<img src="https://i.imgur.com/0SxsnN1.png" style="width: 50%;"/>
+<img src="https://i.imgur.com/8FiaStw.png" style="width: 50%;"/>
 
 
 ### Step 5: Upload that website to your Storage Account
 
-![Step 5](https://via.placeholder.com/500x250.png?text=Step+2)
+<img src="https://i.imgur.com/FGieQvE.png" style="width: 50%;"/>
 
 
 ### Step 6: View your site!
 
-![Step 6](https://i.imgur.com/U8LnrWt.png)
+<img src="https://i.imgur.com/U8LnrWt.png" style="width: 50%;"/>
